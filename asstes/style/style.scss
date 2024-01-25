@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "Lato-400";
+    src: url("../fonts/Lato-400.ttf");
+}
+
+
+
+
+
+.afred_egred {
+    width: 1320px;
+    height: 540px;
+    flex-shrink: 0;
+
+    background-image: url("../imegs/IMAGE\ \(11\).png");
+
+}
+
+.headie_top {
+    margin-left: 580px;
+    gap: 10px;
+    margin-top: 47px;
+}
+
+
+
+.card_one {
+    margin-left: 240px;
+    margin-top: 0px;
+}
+
+.hetti_kill {
+
+    color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 53px;
+    width: 465px;
+    margin-left: 410px;
+    margin-top: 100px;
+}
+
+
+.btn_one {
+    width: 85px;
+    color: #00D6B4;
+    text-align: center;
+    font-family: Lato;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    width: 137px;
+    height: 39px;
+    flex-shrink: 0;
+    background: none;
+    border-radius: 3px;
+    border: 1px solid #00D6B4;
+    margin-top: 20px;
+    margin-left: 580px;
+}
+
+.btn_one:hover {
+    box-shadow: 0px 0px 15px 0px #00D6B4;
+}
+
+.afred_angred {
+    background-color: rgb(56, 50, 50);
+    height: 300px;
+    margin-top: 150px;
+    width: 1320px;
+    height: 1100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.derwl_option {
+    margin-left: 600px;
+
+}
+
